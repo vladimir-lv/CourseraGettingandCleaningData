@@ -1,3 +1,4 @@
+library(dplyr)
 
 #define lookup dictionary for activities
 activity.dict<-c(
